@@ -1,11 +1,20 @@
-# Weather.io
+# WeatherSite
+This is a weather application which can tell you the weather of any location with a spice of new  updated background image, glassmorphism effect and tilt effect.
 
-### An aweosome weather application which can tell you the weather of any location with a spice of location related background image, glassmorphism effect and tilt effect.
+## Technologies Used
 
-### Made using OpenWeatherMap API for weather and Unsplash API for background images.
+* HTML
+* CSS
+* JavaScript
+* OpenWeatherMap API
+* Unsplash API
 
-<br>
-<br>
+## How It Works
+
+1. All you need to do is to type the location of any city/place in the search box and press the enter or click the search button. 
+2. Then the results will be updated consisting of temperture,weather condition, wind speed, Humidity.
+3. All of this information if fetched using the [OpenWeatherMap API](https://openweathermap.org/api). 
+4. On every new search, background image is updated and is fetched from [Unsplash API](https://unsplash.com/developers).
 
 ## Some Screenshots:
 
@@ -16,10 +25,8 @@
 ![Weather24](https://user-images.githubusercontent.com/69153292/126671945-bc725539-dba3-4127-ac7f-a3adfd5789b3.png)
 
 <br>
-<br>
 
 ## Updates and additional features to this projects are welcomed!!! 😊
 
 <br>
 
-<a href="https://www.buymeacoffee.com/yashism" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
