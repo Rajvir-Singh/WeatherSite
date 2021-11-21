@@ -20,7 +20,7 @@ This is a weather application which can tell you the weather of any location wit
 
 Desktop Website
 <p align="center">
-  <img src="./weather1.png" alt="website" width="720">
+  <img src="./Weather1.png" alt="website" width="720">
 </p>
 
 <p align="center">
