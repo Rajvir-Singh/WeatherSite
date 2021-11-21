@@ -20,16 +20,16 @@ This is a weather application which can tell you the weather of any location wit
 
 Desktop Website
 <p align="center">
-  <img src="./weather1.jpg" alt="website" width="250">
+  <img src="./weather1.png" alt="website" width="250">
 </p>
 
 <p align="center">
-  <img src="./Weather2.jpg" alt="website" width="250">
+  <img src="./Weather2.png" alt="website" width="250">
 </p>
 
 Mobile website(Responsive)
 <p align="center">
-  <img src="./Weather3.jpg" alt="mobile" width="250">
+  <img src="./Weather3.png" alt="mobile" width="250">
 </p>
 
 <br>
