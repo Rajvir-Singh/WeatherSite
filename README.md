@@ -16,17 +16,23 @@ This is a weather application which can tell you the weather of any location wit
 3. All of this information if fetched using the [OpenWeatherMap API](https://openweathermap.org/api). 
 4. On every new search, background image is updated and is fetched from [Unsplash API](https://unsplash.com/developers).
 
-## Some Screenshots:
+## Screenshots
 
-![Weather21](https://user-images.githubusercontent.com/69153292/126670065-7b8ccc27-f008-4b6a-85c3-620813bbb31f.png)
+<p align="center">
+  <img src="./bot.jpg" alt="bot" width="250">
+</p>
 
-![Weather23](https://user-images.githubusercontent.com/69153292/126671930-adc08794-20d1-493b-97d8-40d7d67df7a1.png)
 
-![Weather24](https://user-images.githubusercontent.com/69153292/126671945-bc725539-dba3-4127-ac7f-a3adfd5789b3.png)
+Uploading Sudoku Problem Image (Input)
+<p align="center">
+  <img src="./Demo1.jpg" alt="Demo1" width="250">
+</p>
 
-<br>
 
-## Updates and additional features to this projects are welcomed!!! 😊
+Solution Image (Output)
+<p align="center">
+  <img src="./Demo2.jpg" alt="Demo2" width="250">
+</p>
 
 <br>
 
