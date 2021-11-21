@@ -18,20 +18,18 @@ This is a weather application which can tell you the weather of any location wit
 
 ## Screenshots
 
+Desktop Website
 <p align="center">
-  <img src="./bot.jpg" alt="bot" width="250">
+  <img src="./weather1.jpg" alt="website" width="250">
 </p>
 
-
-Uploading Sudoku Problem Image (Input)
 <p align="center">
-  <img src="./Demo1.jpg" alt="Demo1" width="250">
+  <img src="./Weather2.jpg" alt="website" width="250">
 </p>
 
-
-Solution Image (Output)
+Mobile website(Responsive)
 <p align="center">
-  <img src="./Demo2.jpg" alt="Demo2" width="250">
+  <img src="./Weather3.jpg" alt="mobile" width="250">
 </p>
 
 <br>
